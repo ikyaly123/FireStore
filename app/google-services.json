@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864242626998",
+    "project_id": "ikydaly-firebase",
+    "storage_bucket": "ikydaly-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864242626998:android:fcac698cb3eeaf84d79117",
+        "android_client_info": {
+          "package_name": "com.f55119002.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864242626998-u1q3easjtgahhitj1palp83fsggdnitn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPoPdf3hZmx8pFOOIB0QezvkzkNBp7fQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864242626998-u1q3easjtgahhitj1palp83fsggdnitn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
